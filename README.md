@@ -6,9 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmalya1033&label=Profile%20views&color=0e75b6&style=flat" alt="devmalya1033" /> </p>
 
 - 🌱 I’m currently learning **DSA in Java,Web Development**
-
-- 📫 How to reach me **devmalya1903@gmail.com**
-
+- 
 - ⚡ Fun fact **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
