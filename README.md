@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning **DSA in Java,Web Development**
   
 - ⚡ Fun fact **I am funny 😅**
+  
+- 📫 How to reach me **devmalya1903@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
